@@ -1,0 +1,28 @@
+name: mikepereznyc
+favicon: null
+layout_spectrum: 0.7203219006769359
+typography_spectrum: 0.6630060775205493
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9869265775196254
+  lightness: 0.4080112704541534
+  saturation: 0.5973641488235444
+  rhythmicContrast: 0.3521178918890655
+purpose: []
